@@ -12,7 +12,7 @@ Boten använder biblioteket Playwright som styr webbläsaren automatiskt iställ
 ## Status
 - [x] Boten kan öppna Trafikverkets bokningssida
 - [x] Inloggning med BankID fungerar
-- [x] Session sparas och återanvänds automatiskt
+- [ ] Session sparas och återanvänds automatiskt
 - [ ] Sökning efter lediga tider
 - [ ] Notifikation via e-post
 
